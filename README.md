@@ -1,5 +1,15 @@
 # The Day Trader skill
 
+> **Copia de [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill)** (MIT, por Jake Schincariol / [@opusjake](https://www.instagram.com/opusjake/)), compartida por [@omarvillalobos.ai](https://www.instagram.com/omarvillalobos.ai/). Para instalarla desde aquí en Claude Code:
+>
+> ```
+> /plugin marketplace add omaarvillalobos/claude-analista-bolsa
+> /plugin install day-trader-skill@day-trader-skill
+> ```
+>
+> No es asesoría financiera. Todo el crédito es del autor original.
+
+
 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.
 
 Free, MIT, no signup, no API key. The tools are plain Python that read free
